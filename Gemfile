@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 ruby "3.0.2"
 gem 'sinatra'
 gem 'rerun'
+gem 'slavcg_palindrome', '0.2.0'
 
 group :production do
   gem "puma"
